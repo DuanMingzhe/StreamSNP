@@ -3,5 +3,5 @@
 > - Find SNP from local BAM
 
 ## version1.1        2019.10.31(on do)
-> - Add Flink Operate
+> - Add Flink operate
 > - Filter low base quality
